@@ -1,0 +1,354 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance of the barbarous cruelties and bloody murders committed by the Irish rebels against the protestants in Ireland both before and since the cessation, collected out of the records at Dublin, by Thomas Morley, Gent. Being the examinations of many who were eye-witnesses of the same, and justified upon oath by many thousands; presented to the whole kingdome of England, that thereby they may see the rebels inhumane dealings, prevent their pernicious practises, relieve their poore brethrens necessities, and fight for their religion, laws, and liberties. Published by speciall command and authority.</title>
+            <author>Morley, Thomas, Gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89325</idno>
+            <idno type="STC">Wing M2800</idno>
+            <idno type="STC">Thomason E50_31</idno>
+            <idno type="STC">ESTC R23534</idno>
+            <idno type="EEBO-CITATION">99872030</idno>
+            <idno type="PROQUEST">99872030</idno>
+            <idno type="VID">155168</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89325)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155168)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E50[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance of the barbarous cruelties and bloody murders committed by the Irish rebels against the protestants in Ireland both before and since the cessation, collected out of the records at Dublin, by Thomas Morley, Gent. Being the examinations of many who were eye-witnesses of the same, and justified upon oath by many thousands; presented to the whole kingdome of England, that thereby they may see the rebels inhumane dealings, prevent their pernicious practises, relieve their poore brethrens necessities, and fight for their religion, laws, and liberties. Published by speciall command and authority.</title>
+                  <author>Morley, Thomas, Gent.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>12 June. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155168:1" rendition="simple:additions"/>
+            <p>A REMONSTRANCE OF THE BARBAROUS CRUELTIES AND BLOODY MURDERS COMMITTED By the IRIſh REBELS Againſt the PROTESTANTS in IRELAND <hi>Both before and ſince the Ceſſation,</hi> COLLECTED Out of the Records at DUBLIN, by <hi>Thomas Morley,</hi> Gent.</p>
+            <p>Being the examinations of many who were eye<g ref="char:EOLhyphen"/>witneſſes of the ſame, and juſtified upon oath by many thouſands; Preſented to the whole Kingdome of <hi>England,</hi> that thereby they may ſee the Rebels inhumane dealings, prevent their pernicious practiſes, relieve their poore brethrens neceſſities, and fight for their Religion, Laws, and Liberties.</p>
+            <p>
+               <hi>Publiſhed by ſpeciall command and Authority.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>E. G.</hi> 12 June. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="documents">
+            <div type="certificate">
+               <pb facs="tcp:155168:2"/>
+               <pb n="1" facs="tcp:155168:2"/>
+               <p>
+                  <seg rend="decorInit">W</seg>E His Majeſties Commiſſioners for the inquiry and exam<g ref="char:EOLhyphen"/>ining of the loſſes and ſufferings of the loyall ſubjects of the Kingdom of <hi>Ireland</hi> by means of the preſent rebellion Doe hereby certify all thoſe whom it may concerne; That <hi>Tho: Morley</hi> of <hi>Coughes</hi> in the Kings County gent. by his ex<g ref="char:EOLhyphen"/>amination upon oath lately taken before us depoſed, that ſince the beginning of the preſent Rebellion, and by meanes thereof he hath bin and ſtill is depriv'd, robbed, or diſpoiled of his goods, chattells and eſtate, of the value and to his loſſe of one thouſand ninety ſeven pounds ſter.</p>
+               <closer>
+                  <dateline>All which by direction from the right honorable the Lords Iuſtices of the ſame Kingdom we certify under our hands from the City of <hi>Dublin</hi> this, <date>fift day of <hi>January. 1643.</hi>
+                     </date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Henry Jones</hi>
+                        </item>
+                        <item>
+                           <hi>John Watſon.</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Brereton.</hi>
+                        </item>
+                        <item>
+                           <hi>John Sterne.</hi>
+                        </item>
+                        <item>
+                           <hi>Ex. per Tho. Waring.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <p>THeſe are to certifie that the bearer hereof, <hi>Thomas Morley</hi> Gent. ha<g ref="char:EOLhyphen"/>ving by meanes and occaſion of this late Rebellion in <hi>Ireland,</hi> loſt all his whole eſtate, was conſtrained upon the inſurrection to flee to my Caſtle at <hi>Parſons</hi> Town <hi>alias Birr, in Com. Regis</hi> where he became a Trooper &amp; was ſhot in his Majeſties ſervice ſo, that he was conſtrained to goe upon crutches for the ſpace of eighteen moneths, or therabouts. And now by war<g ref="char:EOLhyphen"/>rant from the Lord Lieutenant, and councell is amongſt the reſt of my Troop disbanded without any pay, and is constrayned to go for <hi>England</hi> to ſeek for reliefe, or elſe to ſtarve;</p>
+               <closer>
+                  <dateline>All which at his requeſt I ſignifie under my hand, <date>this <hi>18</hi> day of <hi>March,</hi> Anno Dom. <hi>1643.</hi>
+                     </date>
+                  </dateline>
+                  <signed>William Parſons.</signed>
+               </closer>
+            </div>
+            <div type="passport">
+               <p>YOu and every of you, are hereby required to permit, and ſuffer the Bea<g ref="char:EOLhyphen"/>rer hereof <hi>Thomas Morley,</hi> and <hi>John Morley</hi> his Son, who were lately driven out of <hi>Ireland,</hi> and landed at the Port of <hi>Dover</hi> quietly to paſſe for <hi>London,</hi> without any of your lets, or moleſtations; And this ſhall be your warrant.</p>
+               <closer>
+                  <dateline>Given under my hand and ſeale <date>the firſt day of May, <hi>1644.</hi>
+                     </date>
+                  </dateline>
+                  <signed>WARWICK.</signed>
+               </closer>
+               <trailer>To all deputy Lieutenants, Colonells, Lieutenants Colo. Capts Commanders, and all other Officers whom it may concerne.</trailer>
+            </div>
+         </div>
+         <div type="history">
+            <pb n="2" facs="tcp:155168:3"/>
+            <head>A Briefe Collection of ſome part of the foule Murthers and barbarous cruelties, committed by the traterous Rebels the Papiſts of ſeverall Counties within the Kingdome of <hi>IRELAND.</hi>
+            </head>
+            <head type="sub">And firſt of their Murthers and Cruelties In the County of <hi>Cavan.</hi>
+            </head>
+            <p>
+               <note place="margin">The witneſſes.</note>
+               <seg rend="decorInit">T</seg>Hirty perſons at one time moſt barbarouſly mur<g ref="char:EOLhyphen"/>thered, and ſlayne out-right by the popiſh Re<g ref="char:EOLhyphen"/>bels, and about 150. more cruelly wounded; ſo that Traces of bloud iſſuing from their wounds, lay upon the high way 12 miles toge<g ref="char:EOLhyphen"/>ther in their flight. And many yong children were left and periſhed in the way, to the number of 60. The Rebels vow, if any digged graves for them they ſhould be buried therein themſelves:<note place="margin">Adam Glover.</note> ſo as many were left unburied and ſome hid in the buſhes when they were dead, becauſe their weake parents could carry them no further, nor bury them: and ſome were carried a great way before they durſt bury them. And that one <hi>Phil<g ref="char:EOLhyphen"/>lip o-Rely</hi> then and yet Shierffe of the County, relenting at their continued cruelties, his own ſon told him that if he did revolt from that action and authority; he ought to die and ſhould ſurely be hanged.</p>
+            <p>
+               <note place="margin">Mary Sharp.</note>In the County of <hi>Cavan. Anthony Sharp</hi> being directed by <hi>Hugh Brady</hi> Gent. to leave his goods with him in truſt, and promiſing to ſecure them for him from the other Rebels, when afterwards <hi>Sharp</hi> came for them, <hi>Brady</hi> in ſtead thereof, cut off his head.</p>
+            <p>
+               <note place="margin">Will. Bellis.</note>In the County of <hi>Lowth.</hi> Captaine <hi>Dergis</hi> a Rebell having rob<g ref="char:EOLhyphen"/>bed
+<pb n="3" facs="tcp:155168:3"/>him of his goods, and being deſired to ſpare him ſomewhat of his own, he being ſick, anſwered, he had 100 <abbr>l.</abbr> of the Kings Subſidy monies and 40 <abbr>l.</abbr> of the Biſhop of <hi>Dromors,</hi> and all was too little for the Army; and ſo he going away was ſtript of all his cloathes, and getting into a bed; the Rebels ſet the houſe on fire, out of which he hardly eſcaped, and the rebels then hanged two Proteſtants.</p>
+            <p>
+               <note place="margin">
+                  <hi>Nathanaell Hig<g ref="char:EOLhyphen"/>ginſon, Thomas Knowles, Rich-Braiſhagh. Richard Walker,</hi> ſays, 40 more were murther'd many wounded and 100 dead.</note>In the County of <hi>Fermanagh.</hi> That Captaine <hi>Mac Roy Guire</hi> Captaine <hi>O Donnelle</hi> and other Rebels kild one of his Tenants, and at the leaſt 80 Engliſh Proteſtants more and wounded, ſtript, and hurt ſo many more of the Engliſh as dwelt thereabouts: yet kild few out-right, but left them in ditches and other places mortally wounded, where they pined to death, the Rebels affirming their prieſt commanded them ſo to doe.</p>
+            <p>
+               <note place="margin">
+                  <hi>George Butter<g ref="char:EOLhyphen"/>wick-Iohn More<g ref="char:EOLhyphen"/>ton</hi> ſays, 18 Pro<g ref="char:EOLhyphen"/>teſtants were murthered at another time.</note>In the County of <hi>Cavan. Phillip O Relly</hi> and others promiſing to conduct the Proteſtants to the next County, and to ſecure their goods, they relying thereon put their old and weak people and children upon Cars<g ref="char:punc">▪</g> taking (by the Rebels liberty) ſome ſmall re<g ref="char:EOLhyphen"/>liefe with them. But before nine miles paſſed, an Army of their Souldiers came againſt them, and their Convoyes, without more money, would not help or protect them; but aſſiſted the army to rob, ſtrip, and wound them, ſo as 100 died outright, and many after: but at the beginning the Proteſtants were there neere two thouſand young and old.<note place="margin">Robert Hancock Barbary Moreton Will. Moreton. Agnes Machem. John Heys, Charles Short.</note>
+            </p>
+            <p>In the County of <hi>Fermanagh.</hi> To prove that very many, <hi>viz.</hi> 100 and above in the pariſh of <hi>Drumully</hi> are dead through hunger, and cold, ſince they were put out of their habitations, and divers able Proteſtants moſt cruelly and barbarouſly maſſacred and murthered.</p>
+            <p>
+               <note place="margin">Iohn Bowſer, Barbary Maine, George Gaſcoine, Eliz. Ardwick, Eliz. Cotes, Eliz. Dewsbery, Hugh Stokes, Will. Croſſe, Anne Bath <hi>her ſmock ripped down with a skeane.</hi> Richard Watſon, Abraham James.</note>In the County of <hi>Fermanagh. Tho. Bowſer</hi> murthered in his wifes armes, and many more alſo at ſeverall times murthered.</p>
+            <p>
+               <note place="margin">Magret Wilſon, Iames preſſick. Rich. Knowles, Elenor James, Margaret Fer<g ref="char:EOLhyphen"/>mony.</note>Burning of the Houſes of Proteſtants, and of cruell uſage of the popiſh Rebels.</p>
+            <p>One <hi>Lund,</hi> a man of 80. yeares old moſt barbarouſly murthered. Mr. James moſt barbarouſly murthered and after ſtript naked, fifteen proteſtants more ſlaine.</p>
+            <p>
+               <note place="margin">Mary. Loftus, Eliz. Maſſy.</note>
+               <hi>Mary Loftus</hi> had her husband quartered in her ſight.</p>
+            <p>
+               <hi>Elizabeth Maſſies</hi> Husband kild in her armes, and two children ſtarved.</p>
+            <p>
+               <pb n="4" facs="tcp:155168:4"/>
+               <note place="margin">Eliz. Bowſer, Margret Parkin.</note>That by credible report of all the Towne, the Rebels boyld a yong child of a proteſtant to death in a caldron, or great kettle in the Church at <hi>Newton.</hi>
+            </p>
+            <p>
+               <note place="margin">Mary Loftus.</note>
+               <hi>Mary loftus</hi> had her husband quartered and throwne into a Ri<g ref="char:EOLhyphen"/>ver, and then the Rebels ſaid it was good beefe.</p>
+            <p>
+               <note place="margin">Anne Cheetam.</note>In the County of <hi>Armagh.</hi> Proteſtants detained priſoners with the Rebels.</p>
+            <p>
+               <note place="margin">Davy Williams, Rich-Runckorn. Will. Bickerdick.</note>In the <hi>Kings County. Richard Warrins</hi> wife and 5 children detained.</p>
+            <p>In the County of <hi>Fermanagh. Richard Sallyard</hi> Gent. moſt cruelly murthered becauſe he would not go to maſſe, and his wife wounded.</p>
+            <p>
+               <note place="margin">Jo. Smithſo<g ref="char:cmbAbbrStroke">̄</g> clark <hi>her husband,</hi> Io. Heys &amp; others Antony Hubert, Sara Doughty, Darby Lea. Will. Robinſon, Margret Maning. Mary Comms. Margery Sharp.</note>In the County of <hi>Dublin.</hi> Miſtris <hi>Smithſon</hi> a miniſters wife and her maide hanged up to death.</p>
+            <p>Miſtris <hi>Dirrick Hubbert,</hi> and others robbed and murthered at the skirries by the Rebels, and all the Proteſtants there alſo robbed; other foule murthers in the County of <hi>Dublin.</hi>
+            </p>
+            <p>In the County of <hi>Meath.</hi> Cruell murthers in the Town of <hi>Navan.</hi>
+            </p>
+            <p>
+               <hi>Mary Comin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> dragg'd up and down in a rope.</p>
+            <p>Mr. <hi>Sharpe</hi> the miniſter moſt cruelly murthered, and denied buriall, the Rebels having firſt inforced him to trample and ſpoyle all his books in the water.</p>
+            <p>
+               <note place="margin">Jane Preſſick.</note>
+               <hi>Tho. Preſſick, Iames Haukin,</hi> both moſt cruelly murthered at <hi>Trym,</hi> being firſt robbed, and their wives and children thereby undone.</p>
+            <p>
+               <note place="margin">Reinold Griffith</note>In the County of <hi>Armagh. Reinold Griffith</hi> robbed, cruelly woun<g ref="char:EOLhyphen"/>ded, and purſued 16 miles for his life, and his wife and children impriſoned three weeks by the Rebels, and then the Rebels tooke her ſon of 14 yeares old and drowned him in a bog-pit, holding him down with a ſword in her ſight, and this done at the <hi>New<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y.</hi>
+            </p>
+            <p>
+               <note place="margin">Rich. Warrin.</note>
+               <hi>William VVarin</hi> robbed, and impriſoned by the Rebels 12 dayes, then driven into the River, there ſtript, thrown into the water and drowned with a 100 more women and children: his wife and ſix children left at the rebels mercy.</p>
+            <p>
+               <note place="margin">Lidia Smith, Iſaack Keene.</note>In the County of <hi>Longford.</hi> O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>Smith</hi> robbed there, had his head cut off in defence of the Caſtle, and 14 more proteſtants then, and there murthered alſo, and his wife and children ſtript.</p>
+            <p>
+               <note place="margin">Henry Palmer.</note>In the County of <hi>VVexford.</hi> Divers that kept the Caſtle of <hi>Fethert</hi> wounded to death, and others ſtripped, and almoſt ſtarved to death.</p>
+            <p>
+               <note place="margin">Henry Steele, Robert throwne, Clark.</note>In the County of <hi>Monoghan. M. Blany</hi> a Juſtice of the peace and Knight of the ſhire, and Committee for the Subſidies, hanged
+<pb n="5" facs="tcp:155168:4"/>up, ſtript,<note place="margin">Hugh Culme, <hi>Gent.</hi> Henry Calladine John Greg.</note> and buried in a ditch by the rebels in the County of <hi>Mo<g ref="char:EOLhyphen"/>noghan,</hi> becauſe he would not turne and goe to maſſe; and the next night one <hi>Luke Ward</hi> hang'd and throwne into a ditch; and they and divers others were robbed, and the reſt kept in priſon, without reliefe from them that robd them.</p>
+            <p>Other murthers and cruelties of others, within the County of <hi>Manoghan</hi> by the rebels.<note place="margin">Dorothy Ward.</note>
+            </p>
+            <p>
+               <note place="margin">William Perkins Anne Borrell.</note>In the County of <hi>Cavan.</hi> Fourteen or fifteen hundred Proteſtants all rob'd and ſtript together, and ſome ſtript 20 ſeverall times.</p>
+            <p>
+               <note place="margin">Richard Lewis, <hi>Gent.</hi> Mary Ward Elizabeth Birch John Carter Mary Owlet John Heron Nich. Michael Henry Barnes Philip Ward Chriſtopher Ayrey Silvanus Bullock</note>The Armes and Towne of <hi>Belturbat</hi> delivered to the ô <hi>Relys,</hi> and their company of Rebels, upon their promiſe to the Townſmen that they ſhould enjoy their goods ſafe, and have them preſerved againſt the <hi>Mac Gueres,</hi> and other Rebels of the County of <hi>Fermanah.</hi> But after, upon pretence that <hi>Mac Guere</hi> threatned them, the Proteſtants were turned out of the Towne, with their cloaths, and had a guard from the <hi>ô Relys</hi> one day; but the ſecond day they were ſtript and a great number ſlain, and many periſhed through cold and famine; and many little infants left alive by the way languiſhing, and gaping for breath.</p>
+            <p>Proteſtant houſes pul'd downe, and divers taken and kept priſo<g ref="char:EOLhyphen"/>ners, many ſtript, and many died of cold and want,<note place="margin">Franc. Poſnet Tho. Taylor</note> and many chil<g ref="char:EOLhyphen"/>dren left miſerably alive by the way, becauſe the parents were able to bring them no further.</p>
+            <p>And a very old woman carried 6 miles on her ſonnes backe, was forced to be left by the way. And a Miniſter kild by the Rebels and throwne into a ditch, who had 3 children,<note place="margin">Nich. Swainſon</note> two whereof he carried on his backe, which were left by the way at his death.</p>
+            <p>In the County of <hi>Monoghan.</hi> One who was executed the 15 of <hi>February</hi> 1641. at <hi>Dublin</hi> for murthering a Proteſtant woman,<note place="margin">
+                  <hi>John Montgo<g ref="char:EOLhyphen"/>mery,</hi> Gent. and above 100 more witneſſes</note> con<g ref="char:EOLhyphen"/>feſſed upon the gallowes that he was ſet on to doe it, and that after he waſhed his hands in her blood.</p>
+            <p>A man who had ſeverall young children borne and alive, and his wife neere her time of delivery of another, was moſt cruelly murthe<g ref="char:EOLhyphen"/>red by the rebels, his wife flying into the mountaines, the rebels haſtily purſued her and her little children,<note place="margin">
+                  <hi>Mr.</hi> John Mont<g ref="char:EOLhyphen"/>gomery.</note> and found her newly de<g ref="char:EOLhyphen"/>livered of her child there; they pittying no ſuch, nor any diſtreſſe, preſently murthered her and her other children which runne with her thither, and in moſt inhumane and barbarous manner ſuffered their dogs to eate up and devoure the new borne child.</p>
+            <p>
+               <pb n="6" facs="tcp:155168:5"/>
+               <note place="margin">Philip Taylor John Wiſdome</note>In the County of <hi>Armagh.</hi> One hundred ninety ſix Proteſtants drowned by the Papiſts, rebels, at a Towne neere <hi>Armagh,</hi> all toge<g ref="char:EOLhyphen"/>ther. Many others moſt cruelly maſſacred, and amongſt the reſt a poore woman with child had her belly ript up, and two children tumbling out, they threw both her and them into the ditch; and after <hi>Philip Taylor</hi> found and drove away a Swine that was feeding upon them.</p>
+            <p>In the County of <hi>Armaugh</hi> and Province of <hi>
+                  <g ref="char:V">Ʋ</g>lſter.</hi> The rebels there by ſpeciall command from Sir <hi>Philem ô Neale,</hi> dragged Lieutenant <hi>Iames Maxwell</hi> out of his bed in the rage and height of a burning-feaver; and leſt any of his friends or acquaintance ſhould bury him, they carried him two miles from any Church, and there cruelly butchered and murthered him, when he knew not what he did or ſaid, and ſo Sir <hi>Philem</hi> payd him 260 li. which he owed him.</p>
+            <p>His wife <hi>Grizell Maxwell</hi> being in child birth (the child halfe borne, halfe unborne) they ſtript her ſtarke naked, and drove her about an Arrows flight to the water and drowned her.</p>
+            <p>The like they did to another Engliſh woman in the ſame pariſh in the beginning of the rebellion; which was little inferiour (if not more unnaturall and barbarous then the roſting of Mr. <hi>Watſon</hi> the Miniſter alive after they had cut a collop out of either buttocke.</p>
+            <p>A Scotch-woman was found in the Glynwood, lying dead, her belly ript up, and a living child crawling in her wombe cut out of the cawle.</p>
+            <p>Mr. <hi>Starkie,</hi> ſometime School maſter in <hi>Armagh,</hi> a Gentleman of good parentage and parts, being upwards of 100 yeeres of age, they ſtript naked, cauſed two of his daughters likewiſe naked to ſupport him under each arme, (he being not able to goe of himſelfe;) and in that poſture carried them all three a quarter of mile to a turf-pit and drowned them, feeding the luſt of their eyes and the cruelty of their hearts with the ſelf-ſame objects at the ſame time.</p>
+            <p>At the ſiege of <hi>Augher</hi> they would not kill any Engliſh beaſt, and then eate it, but they cut collops out of them being alive, leting them there roare till they had no fleſh upon their backes, ſo that ſometimes a beaſt would live 2 or 3 daies together in that torment. The like they did at the Towne of <hi>Armagh.</hi>
+            </p>
+            <p>They murthered <hi>Hugh Eccline</hi> Eſquire, and hanged all his Iriſh ſervants that they thought had done him any good, and had proved faithfull unto him.</p>
+            <p>
+               <pb n="7" facs="tcp:155168:5"/>
+               <hi>Henry Cowell</hi> Eſquire, a gallant and wel-bred Gentleman was mur<g ref="char:EOLhyphen"/>thered becauſe he would not conſent to marry a beaſtly trull <hi>Mary Neale,</hi> neere kinſwoman to Sir <hi>Philem.</hi> He was profered his life without the blowſe if he would have gone to maſſe, but he refuſed to doe either.</p>
+            <p>They murthered alſo <hi>Robert Ecklin</hi> his ſonne (a child of 11 or 12 yeeres of age, becauſe he would not goe to maſſe.</p>
+            <p>Very many of the Brittiſh Proteſtants the rebels buried alive, and tooke great pleaſure to heare them ſpeake unto them as they digged downe old ditches upon them, burying none otherwiſe, nor ſuffering any to performe that duty for them.</p>
+            <p>The rebels would ſend their children abroad in great troopes, eſpecially neere <hi>Kinnard,</hi> armed with long wattles and whips, who would therewith beate mens privy members untill they beat or ra<g ref="char:EOLhyphen"/>ther threſhed them off, and then they would returne in great joy to their parents, who received them for ſuch ſervice, as it were in triumph.</p>
+            <p>If any women were found dead, lying with their faces downward, they would turne them upon their backes, and in great flockes reſort unto them, cenſuring all parts of their bodies, but eſpecially ſuch as are not to be named; which afterwards they abuſed ſo many waies and ſo filthily, as chaſte eares would not endure the very naming thereof.</p>
+            <p>Many of the Proteſtants the rebels would grievouſly wound, but not kill out-right, but being halfe dead would leave them intreating for no greater favour at their hands three or foure daies after but to kill them out-right, which ſometimes was granted, ſometimes denied.</p>
+            <p>A young youth having his backe bone broken was found in a field, having like a beaſt eaten all the graſſe round about him: it could not be learned that they kild him out-right, but that they removed him to a place of better paſture.</p>
+            <p>
+               <note place="margin">County of <hi>Antrim.</hi>
+               </note>The rebels themſelves confeſſed and told it to Dr. <hi>Maxwell</hi> while he was priſoner among them, that they killed 954 in one morning in the County of <hi>Antrim;</hi> and that beſides them they ſuppoſed they had kild 1100. or 1200 more in that County.</p>
+            <p>
+               <note place="margin">County of <hi>Downe.</hi>
+               </note>They told him likewiſe that Colonell <hi>Brian ô Neille</hi> kild about 1000 in the County of <hi>Downe,</hi> beſides 300 killd neere <hi>Killelengh</hi> and many hundreds both before and after in both Counties.</p>
+            <p>
+               <pb n="8" facs="tcp:155168:6"/>
+At Sir <hi>Philems</hi> returne from <hi>Liſuegarvy,</hi> ſome of his ſouldiers for<g ref="char:EOLhyphen"/>ced about 24 Brittiſh into a houſe, where they burnd them alive; whoſe terrible out-cries they deſired very much to imitate and ex<g ref="char:EOLhyphen"/>preſſe unto others.</p>
+            <p>Sir <hi>Philem</hi> himſelfe confeſſed and reported that he killd 600 Eng<g ref="char:EOLhyphen"/>liſh at <hi>Gervah</hi> in the County of <hi>Derry;</hi>
+               <note place="margin">County of <hi>Derry, Tirone.</hi>
+               </note> and that he had neither left man, woman, nor child alive in the Barony of <hi>Mounterlong</hi> in the County of <hi>Tinone</hi> betwixt <hi>Armagh</hi> and the <hi>Newry</hi> in the ſeverall Lands and Plantations of Sir <hi>Archebald Atcheſon, Iohn Hamilton</hi> 
+               <abbr>Eſq</abbr> the Lord <hi>Cawfield,</hi> and the l. <hi>Mountnorris,</hi>
+            </p>
+            <p>There were above 2000 Brittiſh murthered in their owne houſes for the moſt part) whoſe houſes were ſeen by a Scottiſh man filled with their dead bodies.</p>
+            <p>In the Glenwood towards <hi>Drumore</hi> there were ſlaughtred above 1200 in all,<note place="margin">Armagh.</note> who were all killd in their flight to the County of <hi>Downe.</hi>
+            </p>
+            <p>The number of people drowned at the bridge of <hi>Portadon</hi> are di<g ref="char:EOLhyphen"/>verſly reported; but by their owne report there were 150 drowned with Mr. <hi>Fullertor.</hi> At another time they threw 140 over the bridge. At another time 36 or 37. and ſo continued drowning every day more or fewer for ſeven or eight weekes, ſo that the feweſt that can be ſuppoſed there to have periſhed muſt needs be above one thou<g ref="char:EOLhyphen"/>ſand; beſides as many more drowned betwixt the bridge and the great Lough of <hi>Mountjoy;</hi> beſides thoſe who periſhed by the Sword, Fire, and Famine in <hi>Cloubraſſill</hi> and the Engliſh plantation adjacent, which in regard there eſcaped not 300 out of all thoſe quarters, muſt needs amount to many thouſands; neere unto Doctor <hi>Maxwels</hi> houſe 37 perſons were throwne from the Curr-bridge at one time 18 or 19. at another time 56 men, women, and children, all taken out of Doctor <hi>Maxwels</hi> owne houſe; and at ſeverall other times ſe<g ref="char:EOLhyphen"/>verall other numbers; beſides thoſe who were drowned in the black<g ref="char:EOLhyphen"/>water at <hi>Kinnard;</hi> in which Towne and Pariſh of <hi>Tynon</hi> there were drowned, ſlaughtred, and died of famine, and for want of clothes, about 600.</p>
+            <p>To theſe may be added many thouſands more; but reference be<g ref="char:EOLhyphen"/>ing had to the number in groſſe which the Rebels themſelves have upon enquiry found out and acknowledged, which notwithſtan<g ref="char:EOLhyphen"/>ding will come farre ſhort of all thoſe that have beene murthered in
+<pb n="9" facs="tcp:155168:6"/>
+               <hi>Ireland,</hi> there being above one hundred fifty foure thouſand wan<g ref="char:EOLhyphen"/>ting of Brittiſh within the very precincts of <hi>
+                  <g ref="char:V">Ʋ</g>lſter</hi> in March 1641. as by their monethly bills brought in and made by their Prieſts by ſpeciall direction appeareth.</p>
+            <p>It is proved by divers witneſſes, that after the drowning of the many Proteſtants at Portadowne, ſtrange viſions and apparitions have been ſeen and heard there upon the water; ſometime a ſpirit aſſuming the ſhape of a man hath been ſeen there with his hands held up and cloſed together; and ſometimes in the likeneſſe of a woman, appearing waſte high above the water, with haire diſheve<g ref="char:EOLhyphen"/>led, eyes twinkled, elevated and claſped hands, crying out, revenge, revenge, &amp;c. and appearing, and crying ſo many nights together. Other viſions and ſtrange voices, and fearefull ſcritchings have been heard where they have drowned the Engliſh at other places, as at <hi>Belturbat</hi>-river in the County of <hi>Cavan;</hi> a lough neere <hi>Loghgall</hi> in the County of <hi>Armagh,</hi> which have alſo deterred and affrighted the Iriſh ſouldiers and others, that they durſt not ſtay neere the place, but fled away:</p>
+            <p>A boy not above fourteene yeeres of age killed at <hi>Kinnard</hi> in the County of <hi>Tirone</hi> fifteene able men with his Skeine, they being diſ<g ref="char:EOLhyphen"/>armed, and moſt of their feet in the ſtockes. And it hath beene moſt uſuall in all parts for the very Iriſh women and children to murder the Engliſh, and to be more fierce and cruell to their powers then the men themſelves. And ſometimes the rebels children with lath Swords, heavy and well ſharpned, would venture upon men and wo<g ref="char:EOLhyphen"/>men of ripe yeeres.</p>
+            <p>In the Countie of <hi>Armagh</hi> it was ordinary and common for the rebels to expoſe the murthered bodies of the Brittiſh ſo long unto publique view and cenſure, that they began to ſtinke and infeſt the ayre, (which being a thing very ſtrange) would not ſometimes hap<g ref="char:EOLhyphen"/>pen untill foure or five weekes after the murther committed. Then at length they would permit ſome of their bodies to be removed and caſt into ditches, but ſo as they muſt be laid with their faces downward. The reaſon they gave for the ſame was, that they ſo placed them to the intent they might have a proſpect and ſight of Hell onely. And therefore when they kild any of the Proteſtants they uſed alwaies theſe words, <hi>Anim Dewll,</hi> which is, thy ſoule to the Divell.</p>
+            <p>
+               <pb n="10" facs="tcp:155168:7"/>
+It was uſuall ſport with one Mr. <hi>Maghan</hi> Captaine of the Caſtle and Towne of <hi>Monoghan,</hi> to take a wodden prick or broach and thruſt it up into the fundament of an Engliſh man or Scottiſh-man; And thereafter to draw him up and down the roome with a Joint-ſtoole, untill through extreame paine, he either fainted or gave content to the ſpectators by ſome noteable ſkips and frisks. And it is further of undeniable truth that the ſaid <hi>Maghan,</hi> and other Rebels in the County of <hi>Monoghan</hi> (after a great feaſt there held,) tooke an Engliſh or Welſh-man, and bound him naked upon the Table; At which they dranke after dinner, and at every health gave him a gaſh or wound (but not mortall) untill his whole body became (as it were) one continued wound; And thereafter flung him out upon a dunghill where he died, partly of his wounds, and partly of famine, none daring to relieve him.</p>
+            <p>In the County of <hi>Kildare</hi> and province of <hi>Leinſter,</hi> the Rebells ſhot an Engliſh proteſtant in his thigh, then tooke him, made a deepe hole in the ground, and made him ſtand upright therein whileſt they filled the hole full of earth againe; and faſt ram'd all his body and Armes and all but his head therein, ſo as he could not ſtir nor help himſelfe; In which ſtate and poſture the barba<g ref="char:EOLhyphen"/>rous villains left him to Languiſh, Pine, Starve and die there as hee did.</p>
+            <p>In the County of <hi>Catherlagh</hi> two Engliſh proteſtants being al<g ref="char:EOLhyphen"/>moſt ſtarved for want of food at <hi>Catherlagh</hi> Caſtle, went out to ga<g ref="char:EOLhyphen"/>ther a few eares of Corne; were ſeized on and hung up on a Tree by the haire of their heads all a whole night and more; The next day the Rebels took them downe, and finding yet life in them both, mangled, murthered, and cut them in pieces.</p>
+            <p>
+               <note place="margin">Tipprreary Pro<g ref="char:EOLhyphen"/>vince <hi>of</hi> Munſter.</note>At the ſilver works in the County of <hi>Tipperarie,</hi> one Captaine <hi>Kenedy</hi> and two Souldiers on a Sabbath day, ſuddenly fell upon above 20 of the miners being Engliſhmen, and murthered them all. And ſoone after the ſame Captaine (becauſe hee was hin<g ref="char:EOLhyphen"/>dred from doing the like miſchiefe upon others of the Engliſh) ſell into a mad frantick fit and drowned himſelfe.</p>
+            <p>
+               <note place="margin">Sligo Province <hi>of</hi> Connaght.</note>
+               <hi>Teige O Conniers Sligo,</hi> reputed Generall of the Rebelt in the County of <hi>Sligo,</hi> and his brothers and divers other bloudy Cap<g ref="char:EOLhyphen"/>tains, and a great number of their Souldiers in <hi>December,</hi> 1641.
+<pb n="11" facs="tcp:155168:7"/>Surpriſed and tooke the Towne of <hi>Sligo;</hi> and quarter promiſed to the <hi>Brittiſh</hi> there for their lives, they being 38. who were kept three weeks by the ſaid <hi>Teige O Conniers;</hi> he having taken all their goods of great value. But then thoſe 38. <hi>Brittiſh</hi> were by conſent of the ſaid <hi>Teige</hi> put into the goale of <hi>Sligo:</hi> and a<g ref="char:EOLhyphen"/>bout midnight were moſt barbarouſly murthered, with butchers Axes, Sledges and other things, and cut all to peeces by the brothers of the ſaid <hi>Teige,</hi> and others of the name and Sect of the <hi>Conniers;</hi> And a Gentlewoman there attempting to goe away, ſhee being great with Child, was taken and had her belly ript up: So as her Childs Arme appeared in her Wombe.</p>
+            <p>In the County of <hi>Kilkenny,</hi> in the Province of <hi>Munſter,</hi> and elſewhere in that Province (aſwell as in <hi>
+                  <g ref="char:V">Ʋ</g>lſter</hi> in the North) It is a thing moſt common, and ordinary to bury the Engliſh a<g ref="char:EOLhyphen"/>live. To digge up the dead Corps of others in the Churches and Church-yard, and to caſt them out to open view, and there to leave them: And thoſe that attempted to bury any of the Engliſh were murthered and denied buriall themſelves.</p>
+            <p>In <hi>Dungavon</hi> in the County of <hi>Tirone,</hi> or neere thereunto the Rebells murthered 316 Proteſtants, betweene <hi>Charlemont</hi> and <hi>Dungavon</hi> above 400.</p>
+            <p>By <hi>Benbarb</hi> in the black water in Com. <hi>Armagh,</hi> were dround 206. And the rebell <hi>Patrick Mac Crew</hi> of <hi>Dungavon</hi> murthered 31. in one morning.</p>
+            <p>Two yound Rebells named <hi>Iohn Begg,</hi> and <hi>Brian Harvy</hi> murthered in the County of <hi>Tirone</hi> 140. poore Women and children.</p>
+            <p>The Wife of <hi>Brian Kelly</hi> of <hi>Loghgall,</hi> in Com. <hi>Armagh,</hi> did with her own hands murther 45.</p>
+            <p>Doctor <hi>Hodges</hi> with forty foure more, was murthered within a quarter of a mile of <hi>Charlemount,</hi> in the County of <hi>Armagh.</hi>
+            </p>
+            <p>At a Mill-pond in the Pariſh of <hi>Killaman,</hi> and County of <hi>Tirone,</hi> there were drowned in one Day 300. proteſtants, and in that pariſh there were murthered, of Engliſh and Scotch, 1200.</p>
+            <p>Many young Children were cut into quarters and gobbets by the
+<pb n="12" facs="tcp:155168:8"/>Rebels, and 18. Scotch infants were hanged up upon a clothiers Tenter-hooks.</p>
+            <p>A young fat Scotch-man was murthered, and the Rebels made Candles of his greaſe.</p>
+            <p>They tooke another Scotchman and ripped up his belly, that they might come to his ſmall guts. The one end whereof they tied to a Tree, and made him go round untill he had drawne them all out of his body. They then ſaying, they would try whether a dog, or a Scotchmans guts were longer.</p>
+            <p>Many other bloudy murthers and maſſacres of proteſtants by the popiſh Rebels, and other moſt intollerable outrages, within twenty ſeverall Counties of the Kingdom of <hi>Ireland</hi> at the leaſt; and all proteſtants generally diſpoiled of all their goods, and clothes, turned away from their habitations naked; whereby many thouſand have died of cold, hunger, and want: to prove which there are now in <hi>Dublin</hi> many thouſands of witneſſes.</p>
+         </div>
+         <div type="history">
+            <head>THE Impious, wicked, and leud actions of the Papiſts, againſt the Proteſtants, and their Religion.</head>
+            <p>
+               <hi>H<g ref="char:V">Ʋ</g>gh ô Rely</hi> a ring-leader of the rebels in the County of <hi>Cavan,</hi>
+               <note place="margin">William Hoe.</note> ſaid, that the Engliſh thought to cut the throats of the Iriſh for their Religion, but the Iriſh would prevent them and cut their throats firſt for their Religion.</p>
+            <p>In the County of Cavan, <hi>Iames ô Rely, Hugh Brady,</hi> and other rebels often tooke the Proteſtant Bibles and wetting them in pud<g ref="char:EOLhyphen"/>dle water,<note place="margin">Adam Glover.</note> did five or ſix ſeverall times daſh the ſame in the faces of Proteſtants, ſaying, come I know you love a good leſſon, here is a moſt excellent one for you, and come to morrow and you ſhall have
+<pb n="13" facs="tcp:155168:8"/>as good a Sermon. And as the Proteſtants were going to the Church the rebels tooke and dragged them into the Church by the haire of the head; where they whipt, rob'd, ſtript, and moſt cruelly uſed them, ſaying, that to morrow you ſhall heare the like ſermon.</p>
+            <p>
+               <note place="margin">Robert Brown, Io. Montgomery Iohn Wiſdom. Eliz. Taylor, <hi>and many others.</hi>
+               </note>That <hi>Rory Mac Guire,</hi> Sir <hi>Philem O Neale,</hi> and the Nor<g ref="char:EOLhyphen"/>thren Rebells in the Counties of <hi>Monoghan, Armagh, Lowth, Cavan, Meath</hi> and other places where they came, burnt, tore, or otherwiſe trampled under their feete, and ſpoyled all the Proteſtants Bibles, and other good Bookes of the Prote<g ref="char:EOLhyphen"/>ſtants.</p>
+            <p>
+               <note place="margin">Henry Palmer.</note>In the County of <hi>VVexford.</hi> That <hi>Derucot ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Dooley,</hi> the Rebell, and his company went into the Church at <hi>Fethert,</hi> and cut the Pulpit-Cloath, and Miniſters bookes in peeces: and ſtrewed them about the Church-Yard; and cauſed the Piper to play whileſt they danced, and trampled upon them under their feete, calling the Miniſter dogge, and ſtripping him of his Cloathes.</p>
+            <p>The Generall cruelty to Miniſters againſt Proteſtants and that religion duly exerciſed by the Papiſt-rebells ſcornfull malicious and contemptuous words and blaſphemies, are ſo many and fre<g ref="char:EOLhyphen"/>quently uſed, and by too wofull experience found and proved by a multitude of witneſſes.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
